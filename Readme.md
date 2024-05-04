@@ -1,4 +1,4 @@
-# Big data - Hadoop and Hive exercise on Cloudera environment
+# Big data - Hadoop and Hive exercises on Cloudera environment
 
 
 # Exercise 1
