@@ -1,12 +1,5 @@
-Pratik Amol Halurkar
+# Big data - Hadoop and Hive exercise on Cloudera environment
 
-Module 3 assignment
-
-ALY6110: Big Data and Data Management (CRN: 20389)
-
-Prof. Daya Rudhramoorthi
-
-3/8/2024
 
 # Exercise 1
 
